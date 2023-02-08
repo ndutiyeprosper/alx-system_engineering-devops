@@ -1,3 +1,2 @@
-
-cd /tmp/ 
-mkdir my_first_directory
+#!/bin/bash
+mkdir /tmp/myfirst_directory
